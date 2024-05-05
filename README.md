@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash-Pohankar
 - 👀 I’m interested in Full-Stack Development, Hacking, Programming, etc. 
-- 🌱 I’m currently in 9th Class.
+- 🌱 I’m currently in 10th Class.
 - 📫 Reach me at yashpohankar2009+gitreach@gmail.com
 
 <!---
